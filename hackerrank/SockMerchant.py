@@ -1,3 +1,6 @@
+import itertools
+
+
 def sockMerchant(n, ar):
     ar.sort()
     x = 0
