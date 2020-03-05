@@ -1,3 +1,5 @@
 .vscode
 .DS_Store
 test.js
+testTS.ts
+testTS.js
